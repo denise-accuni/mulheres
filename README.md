@@ -51,4 +51,10 @@ Distribuído sob licença a ser definida. Consulte o arquivo `LICENSE` para mais
 ---
 
 Projeto 2025 • Mulheres na Computação • Universidade Iguaçu (UNIG)  
-Participantes: Joana Silva, Carla Pereira, Thais Lima, Valéria Fernandes  
+Participantes: 
+  - Daymara Aparecida de Abreu Silva  
+  - Mikaella Teixeira da Silva  
+  - Caroline de Souza Cruz  
+  - Ana Clara do Nascimento de Oliveira  
+  - Caroline Luz de Souza  
+
