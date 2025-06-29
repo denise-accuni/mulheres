@@ -35,7 +35,7 @@ Historicamente, as mulheres foram pioneiras na Computação — nomes como **Ada
 
 ## Compromisso
 
-Este projeto busca contribuir com a equidade de gênero na tecnologia, unindo esforços acadêmicos e sociais para construir um setor mais justo, inclusivo e inovador. A proposta final inclui o desenvolvimento de um ambiente digital integrado às instituições de ensino, empresas e redes de apoio, visando facilitar o acesso de mulheres a oportunidades profissionais e de formação.
+Este projeto busca contribuir com a equidade de gênero na tecnologia, unindo esforços acadêmicos e sociais para construir um setor mais inclusivo e inovador. A proposta final inclui o desenvolvimento de um ambiente digital visando facilitar o acesso de mulheres sobre a participação das Mulheres na Computação.
 
 ## Licença
 
