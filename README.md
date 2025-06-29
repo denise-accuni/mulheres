@@ -1,21 +1,22 @@
 # Mulheres na Computação
 
-> **Projeto do Programa de Iniciação Científica (PIC)** da Universidade Iguaçu (UNIG), dedicado ao estudo e desenvolvimento de soluções para potencializar a presença feminina na área de Tecnologia da Informação (TI).
+> 🌸 **A Representatividade e Inclusão de Mulheres na Tecnologia**  
+> Projeto do Programa de Iniciação Científica (PIC) – Universidade Iguaçu (UNIG)
 
-## Sobre o projeto
+## 💡 Sobre o projeto
 
-O projeto **Mulheres na Computação** tem como objetivo mapear e analisar a atuação das mulheres na área de TI no Brasil e no mundo, além de propor a criação de uma tecnologia social que auxilie na inserção, permanência e ascensão das mulheres no mercado de trabalho tecnológico.
+O projeto **Mulheres na Computação** busca criar um espaço de **visibilidade**, **inclusão** e **equidade** para mulheres na área de Tecnologia da Informação. Nossa proposta é reunir dados, histórias e oportunidades, além de desenvolver uma plataforma digital que conecte estudantes, profissionais, empresas e universidades em prol de uma TI mais diversa.
 
-Historicamente, as mulheres foram pioneiras na Computação — nomes como **Ada Lovelace** e **Grace Hopper** são símbolos desse legado. Entretanto, sua participação foi invisibilizada ao longo do tempo e ainda hoje os índices de representatividade feminina na TI permanecem baixos. Por meio deste projeto, buscamos resgatar e valorizar essas contribuições, além de criar um ambiente digital que sirva como canal de apoio, divulgação e oportunidades para mulheres na tecnologia.
+Participe e contribua para uma tecnologia mais justa e plural!
 
-## Objetivos
+## 🎯 Objetivos
 
-- **Investigar a representatividade feminina na área de TI**
-- **Analisar áreas de maior interesse e atuação**
-- **Identificar inovações tecnológicas criadas por mulheres**
-- **Desenvolver um protótipo de tecnologia social para apoio e empregabilidade**
+- Mapear e analisar a representatividade feminina na TI
+- Identificar inovações e contribuições criadas por mulheres
+- Desenvolver um protótipo de tecnologia social de apoio
+- Fortalecer redes de colaboração e apoio às mulheres na tecnologia
 
-## Equipe
+## 👩‍💻 Equipe
 
 - **Orientadora:** Denise Moraes do Nascimento Vieira  
 - **Orientador voluntário:** Ricardo Marciano dos Santos  
@@ -26,17 +27,28 @@ Historicamente, as mulheres foram pioneiras na Computação — nomes como **Ada
   - Ana Clara do Nascimento de Oliveira  
   - Caroline Luz de Souza  
 
-## Destaques do projeto
+## 🌐 Estrutura do projeto
 
-- Revisão de literatura e mapeamento documental de dados sobre mulheres na TI
-- Levantamento e análise de eventos de tecnologia com foco na participação feminina
-- Desenvolvimento de protótipo de plataforma digital voltada ao público acadêmico e empresarial
-- Discussão sobre políticas públicas, iniciativas educacionais e redes de apoio
+O site do projeto foi desenvolvido com foco em **acessibilidade**, **design minimalista** e **cores suaves** (roxo, rosa, verde água), seguindo os seguintes princípios:
 
-## Compromisso
+- Interface amigável e responsiva
+- Paleta inspirada na identidade visual do projeto (roxo, rosa, verde água)
+- Navegação simples: Início | Sobre | Dashboard | Eventos | Notícias
+- Chamada clara para ação: **"Faça seu cadastro"**
 
-Este projeto busca contribuir com a equidade de gênero na tecnologia, unindo esforços acadêmicos e sociais para construir um setor mais inclusivo e inovador. A proposta final inclui o desenvolvimento de um ambiente digital visando facilitar o acesso de mulheres sobre a participação das Mulheres na Computação.
+## 🤝 Como contribuir
 
-## Licença
+1. Faça um *fork* do projeto
+2. Crie sua branch (`git checkout -b feature/MinhaFeature`)
+3. Commit suas alterações (`git commit -m 'Minha contribuição'`)
+4. Push para o repositório (`git push origin feature/MinhaFeature`)
+5. Abra um Pull Request
 
-Distribuído sob licença a ser definida. Consulte `LICENSE` para mais informações.
+## 📜 Licença
+
+Distribuído sob licença a ser definida. Consulte o arquivo `LICENSE` para mais informações.
+
+---
+
+Projeto 2025 • Mulheres na Computação • Universidade Iguaçu (UNIG)  
+Participantes: Joana Silva, Carla Pereira, Thais Lima, Valéria Fernandes  
