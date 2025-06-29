@@ -1,78 +1,42 @@
-# Product Name
-> Short blurb about what your product does.
+# Mulheres na Computação
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+> **Projeto do Programa de Iniciação Científica (PIC)** da Universidade Iguaçu (UNIG), dedicado ao estudo e desenvolvimento de soluções para potencializar a presença feminina na área de Tecnologia da Informação (TI).
 
-One to two paragraph statement about your product and what it does.
+## Sobre o projeto
 
-![](header.png)
+O projeto **Mulheres na Computação** tem como objetivo mapear e analisar a atuação das mulheres na área de TI no Brasil e no mundo, além de propor a criação de uma tecnologia social que auxilie na inserção, permanência e ascensão das mulheres no mercado de trabalho tecnológico.
 
-## Installation
+Historicamente, as mulheres foram pioneiras na Computação — nomes como **Ada Lovelace** e **Grace Hopper** são símbolos desse legado. Entretanto, sua participação foi invisibilizada ao longo do tempo e ainda hoje os índices de representatividade feminina na TI permanecem baixos. Por meio deste projeto, buscamos resgatar e valorizar essas contribuições, além de criar um ambiente digital que sirva como canal de apoio, divulgação e oportunidades para mulheres na tecnologia.
 
-OS X & Linux:
+## Objetivos
 
-```sh
-npm install my-crazy-module --save
-```
+- **Investigar a representatividade feminina na área de TI**
+- **Analisar áreas de maior interesse e atuação**
+- **Identificar inovações tecnológicas criadas por mulheres**
+- **Desenvolver um protótipo de tecnologia social para apoio e empregabilidade**
 
-Windows:
+## Equipe
 
-```sh
-edit autoexec.bat
-```
+- **Orientadora:** Denise Moraes do Nascimento Vieira  
+- **Orientador voluntário:** Ricardo Marciano dos Santos  
+- **Alunas:**  
+  - Daymara Aparecida de Abreu Silva  
+  - Mikaella Teixeira da Silva  
+  - Caroline de Souza Cruz  
+  - Ana Clara do Nascimento de Oliveira  
+  - Caroline Luz de Souza  
 
-## Usage example
+## Destaques do projeto
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+- Revisão de literatura e mapeamento documental de dados sobre mulheres na TI
+- Levantamento e análise de eventos de tecnologia com foco na participação feminina
+- Desenvolvimento de protótipo de plataforma digital voltada ao público acadêmico e empresarial
+- Discussão sobre políticas públicas, iniciativas educacionais e redes de apoio
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
+## Compromisso
 
-## Development setup
+Este projeto busca contribuir com a equidade de gênero na tecnologia, unindo esforços acadêmicos e sociais para construir um setor mais justo, inclusivo e inovador. A proposta final inclui o desenvolvimento de um ambiente digital integrado às instituições de ensino, empresas e redes de apoio, visando facilitar o acesso de mulheres a oportunidades profissionais e de formação.
 
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
+## Licença
 
-```sh
-make install
-npm test
-```
-
-## Release History
-
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
-
-## Meta
-
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
-
-## Contributing
-
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
+Distribuído sob licença a ser definida. Consulte `LICENSE` para mais informações.
