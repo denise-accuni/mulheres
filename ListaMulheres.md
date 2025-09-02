@@ -1,9 +1,10 @@
 # Lista de Mulheres na Tecnologia e Inovação e áreas correlatas de Impacto Tecnológico.
 
 **Lista captada por chatgpt 5**
-# We'll build a structured dataset of women in government technology and innovation roles (last ~20 years).
-# Columns: Nome, País, Função, Impacto (resumo), Fonte (link verificado).
-# We'll include ~80 thoroughly-verified entries with reliable sources gathered from public bios or Wikipedia.
+### We'll build a structured dataset of women in government technology and innovation roles (last ~20 years).
+### Columns: Nome, País, Função, Impacto (resumo), Fonte (link verificado).
+### We'll include ~80 thoroughly-verified entries with reliable sources gathered from public bios or Wikipedia.
+
 import pandas as pd
 
 rows = [
