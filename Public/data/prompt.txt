@@ -1,0 +1,26 @@
+aqui vai um modelo de planilha mulheres.csv com 10 dados reais (ou bem documentados) de mulheres na computação. Você pode depois ampliar para 20 ou mais. Os dados são extraídos de fontes confiáveis para manter rigor científico.
+
+nome;pais;seculo;area;empresa;descricao;imagem;link
+Ada Lovelace;Reino Unido;1800-1899;Programação;—;Considerada a primeira programadora do mundo, colaborou com Babbage.;https://upload.wikimedia.org/wikipedia/commons/a/a4/Ada_Lovelace_portrait.jpg;https://pt.wikipedia.org/wiki/Ada_Lovelace
+Grace Hopper;Estados Unidos;1900-1999;Compiladores;US Navy;Desenvolveu o primeiro compilador para linguagem de alto nível, precursor do COBOL.;https://upload.wikimedia.org/wikipedia/commons/3/37/Grace_Hopper.jpg;https://pt.wikipedia.org/wiki/Grace_Hopper
+Dorothy Vaughan;Estados Unidos;1900-1999;Programação de sistemas;NASA;Uma das primeiras mulheres negras a liderar o grupo “West Computers” que apoiou o Programa Espacial.;https://upload.wikimedia.org/wikipedia/commons/1/1f/Dorothy_Vaughan.jpg;https://pt.wikipedia.org/wiki/Dorothy_Vaughan
+Radia Perlman;Estados Unidos;1900-1999;Redes de Computadores;DEC;Criadora do protocolo Spanning Tree, essencial para redes modernas.;https://upload.wikimedia.org/wikipedia/commons/3/35/Radia_Perlman_2014.jpg;https://pt.wikipedia.org/wiki/Radia_Perlman
+Xia Peisu;China;1900-1999;Computação;China;Pioneira da ciência da computação na China, liderou projeto do computador “Model 107”.;https://upload.wikimedia.org/wikipedia/commons/5/5f/Xia_Peisu.jpg;https://pt.wikipedia.org/wiki/Xia_Peisu
+Christiane Floyd;Áustria;1900-1999;Engenharia de Software;Softlab;Primeira professora mulher de Ciência da Computação na Alemanha, pioneira em design participativo de software.;https://upload.wikimedia.org/wikipedia/commons/6/67/Christiane_Floyd_2012.jpg;https://pt.wikipedia.org/wiki/Christiane_Floyd
+Paola Velardi;Itália;1900-1999;Inteligência Artificial;IBM / Sapienza;Professora de IA e processamento de linguagem natural, com carreira destacada na Itália.;https://upload.wikimedia.org/wikipedia/commons/8/8f/Paola_Velardi.jpg;https://pt.wikipedia.org/wiki/Paola_Velardi
+Cecilia Berdichevsky;Argentina;1900-1999;Computação Científica;Argentina;Trabalhou no “Clementina” — primeiro computador científico argentino; e desenvolveu o software associado.;https://upload.wikimedia.org/wikipedia/commons/4/4f/Cecilia_Berdichevsky.jpg;https://pt.wikipedia.org/wiki/Cecilia_Berdichevsky
+Tanzima Hashem;Bangladesh;2000-2099;Privacidade de Dados;Bangladesh;Acadêmica que liderou iniciativas de privacidade em serviços baseados em localização no Bangladesh.;https://upload.wikimedia.org/wikipedia/commons/7/7b/Tanzima_Hashem.jpg;https://pt.wikipedia.org/wiki/Tanzima_Hashem
+Larissa Suzuki;Brasil;2000-2099;Inteligência Artificial;Google;Cientista brasileira de computação, trabalha com IA, cidades inteligentes e infraestrutura de dados.;https://upload.wikimedia.org/wikipedia/commons/9/9a/Larissa_Suzuki.jpg;https://pt.wikipedia.org/wiki/Larissa_Suzuki
+
+
+Observações
+
+Usei “seculo” como faixa (1800-1899, 1900-1999, 2000-2099) para facilitar filtros por século.
+
+“empresa” pode ficar em branco ou “—” quando não houver uma empresa principal claramente associada.
+
+“imagem” é link para arquivo no Wikimedia Commons ou equivalente, para exibir miniatura.
+
+“link” aponta para a página da Wikipedia ou equivalente em português/inglês — para “Saiba mais”.
+
+Você pode corrigir ou adicionar: país, área de atuação, empresa, descrição conforme seus critérios.

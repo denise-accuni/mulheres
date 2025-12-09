@@ -1,0 +1,11 @@
+{
+  "name": "observatorio/mulheres",
+  "description": "Protótipo do Observatório Mulheres na Computação",
+  "type": "project",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Observatorio\\": "src/"
+    }
+  }
+}

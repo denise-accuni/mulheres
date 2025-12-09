@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1,
+    "nome": "Elizabeth Reid",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Elizabeth Reid é VP, Head of Search – Google.",
+    "areasDeAtuacao": [
+      "VP, Head of Search – Google"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://io.google/2024/speakers/elizabeth-reid/"
+  },
+  {
+    "id": 2,
+    "nome": "Sissie Hsiao",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Sissie Hsiao é VP & GM, Gemini experiences – Google.",
+    "areasDeAtuacao": [
+      "VP & GM, Gemini experiences – Google"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://io.google/2024/speakers/sissie-hsiao/"
+  },
+  {
+    "id": 3,
+    "nome": "Aparna Pappu",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Aparna Pappu é VP & GM, Google Workspace.",
+    "areasDeAtuacao": [
+      "VP & GM, Google Workspace"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://io.google/2024/speakers/aparna-pappu/"
+  },
+  {
+    "id": 4,
+    "nome": "Rose Yao",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Rose Yao é VP de Produto, Search Verticals e Internacional – Google.",
+    "areasDeAtuacao": [
+      "VP de Produto, Search Verticals e Internacional – Google"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://io.google/2024/speakers/rose-yao/"
+  },
+  {
+    "id": 5,
+    "nome": "Jenny Blackburn",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Jenny Blackburn é VP de UX, Gemini experiences – Google.",
+    "areasDeAtuacao": [
+      "VP de UX, Gemini experiences – Google"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://io.google/2024/speakers/jenny-blackburn/"
+  },
+  {
+    "id": 6,
+    "nome": "Paige Bailey",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Paige Bailey é Head of AI Content Strategy – Google DeepMind.",
+    "areasDeAtuacao": [
+      "Head of AI Content Strategy – Google DeepMind"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/speakers/"
+  },
+  {
+    "id": 7,
+    "nome": "Priyanka Sharma",
+    "pais": "Índia",
+    "continente": "Asia",
+    "biografia": "Priyanka Sharma é Ex-Executive Director – CNCF.",
+    "areasDeAtuacao": [
+      "Ex-Executive Director – CNCF"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/speakers/"
+  },
+  {
+    "id": 8,
+    "nome": "Lin Sun",
+    "pais": "China",
+    "continente": "Asia",
+    "biografia": "Lin Sun é Distinguished Engineer – IBM (Service Mesh).",
+    "areasDeAtuacao": [
+      "Distinguished Engineer – IBM (Service Mesh)"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://www.youtube.com/playlist?list=PLj6h78yzYM2PjoxWp_019Da5ZlKLxQ0SY"
+  },
+  {
+    "id": 9,
+    "nome": "Jessica Rosenworcel",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Jessica Rosenworcel é Chairwoman – U.S. FCC.",
+    "areasDeAtuacao": [
+      "Chairwoman – U.S. FCC"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://www.mobileworldlive.com/blog/ministers-musk-share-mobile-world-congress-spotlight/"
+  },
+  {
+    "id": 10,
+    "nome": "Yang Lan",
+    "pais": "China",
+    "continente": "Asia",
+    "biografia": "Yang Lan é Chairperson – Sun Media Group.",
+    "areasDeAtuacao": [
+      "Chairperson – Sun Media Group"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://mobile-mag.com/telecoms/whos-who-at-mwc-shanghais-main-conference-tracks"
+  },
+  {
+    "id": 11,
+    "nome": "Funke Opeke",
+    "pais": "Nigéria",
+    "continente": "Africa",
+    "biografia": "Funke Opeke é CEO – MainOne.",
+    "areasDeAtuacao": [
+      "CEO – MainOne"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://eqlher.com/eql-lounge-at-ai-summit-cape-town/"
+  },
+  {
+    "id": 12,
+    "nome": "Motunrayo Opayinka",
+    "pais": "Nigéria",
+    "continente": "Africa",
+    "biografia": "Motunrayo Opayinka é CEO – Womenovate.",
+    "areasDeAtuacao": [
+      "CEO – Womenovate"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://eqlher.com/eql-lounge-at-ai-summit-cape-town/"
+  },
+  {
+    "id": 13,
+    "nome": "Sahar Albanarna",
+    "pais": "Arábia Saudita",
+    "continente": "Asia",
+    "biografia": "Sahar Albanarna é Executiva/Setor Digital.",
+    "areasDeAtuacao": [
+      "Executiva/Setor Digital"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://www.onegiantleap.com/en/programme-tracks/women-in-tech.html"
+  },
+  {
+    "id": 14,
+    "nome": "Jen Easterly",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Jen Easterly é Diretora – CISA.",
+    "areasDeAtuacao": [
+      "Diretora – CISA"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://www.rsaconference.com/press-release/rsac-2024-opening-night-speakers-revealed"
+  },
+  {
+    "id": 15,
+    "nome": "Emma Redmond",
+    "pais": "Irlanda",
+    "continente": "Europe",
+    "biografia": "Emma Redmond é Deputy Global Head of Privacy – OpenAI.",
+    "areasDeAtuacao": [
+      "Deputy Global Head of Privacy – OpenAI"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://www.rsaconference.com/press-release/rsac-2024-opening-night-speakers-revealed"
+  },
+  {
+    "id": 16,
+    "nome": "Mira Murati",
+    "pais": "Albânia",
+    "continente": "Europe",
+    "biografia": "Mira Murati é CTO – OpenAI.",
+    "areasDeAtuacao": [
+      "CTO – OpenAI"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://www.youtube.com/watch?v=U9mJuUkhUzk"
+  },
+  {
+    "id": 17,
+    "nome": "Safra Catz",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Safra Catz é CEO – Oracle.",
+    "areasDeAtuacao": [
+      "CEO – Oracle"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://blogs.oracle.com/oracle/post/safra-catz-cloudworld-2023-keynote-business-performance-cloud"
+  },
+  {
+    "id": 18,
+    "nome": "Kimberly Powell",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Kimberly Powell é VP/GM de Saúde – NVIDIA.",
+    "areasDeAtuacao": [
+      "VP/GM de Saúde – NVIDIA"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://www.nvidia.com/en-us/on-demand/session/gtc24-s62604/"
+  },
+  {
+    "id": 19,
+    "nome": "Dominique Palmer",
+    "pais": "Reino Unido",
+    "continente": "Europe",
+    "biografia": "Dominique Palmer é Ativista climática.",
+    "areasDeAtuacao": [
+      "Ativista climática"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://websummit.com/speakers/dominique-palmer/"
+  },
+  {
+    "id": 20,
+    "nome": "Luciana Santos",
+    "pais": "Brasil",
+    "continente": "America",
+    "biografia": "Luciana Santos é Ministra da Ciência, Tecnologia e Inovação – Brasil.",
+    "areasDeAtuacao": [
+      "Ministra da Ciência, Tecnologia e Inovação – Brasil"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://rio.websummit.com/speakers/"
+  },
+  {
+    "id": 21,
+    "nome": "Patricia Florissi",
+    "pais": "Brasil",
+    "continente": "America",
+    "biografia": "Patricia Florissi é Technical Director – Google Cloud.",
+    "areasDeAtuacao": [
+      "Technical Director – Google Cloud"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://rio.websummit.com/speakers/"
+  },
+  {
+    "id": 22,
+    "nome": "Livia Chanes",
+    "pais": "Brasil",
+    "continente": "America",
+    "biografia": "Livia Chanes é CEO Brasil – Nubank.",
+    "areasDeAtuacao": [
+      "CEO Brasil – Nubank"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://rio.websummit.com/speakers/"
+  },
+  {
+    "id": 23,
+    "nome": "Shelley McKinley",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Shelley McKinley é Chief Legal Officer – GitHub.",
+    "areasDeAtuacao": [
+      "Chief Legal Officer – GitHub"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://rio.websummit.com/speakers/"
+  },
+  {
+    "id": 24,
+    "nome": "Rebecca Parsons",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Rebecca Parsons é CTO – Thoughtworks.",
+    "areasDeAtuacao": [
+      "CTO – Thoughtworks"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://rio.websummit.com/women-in-tech/"
+  },
+  {
+    "id": 25,
+    "nome": "Lisa Su",
+    "pais": "Taiwan",
+    "continente": "Asia",
+    "biografia": "Lisa Su é Chair & CEO – AMD.",
+    "areasDeAtuacao": [
+      "Chair & CEO – AMD"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://ir.amd.com/news-events/press-releases/detail/1199/amd-chair-and-chief-executive-officer-dr-lisa-su-to-deliver-the-opening-keynote-at-computex-2024"
+  },
+  {
+    "id": 26,
+    "nome": "Mai-Lan Tomsen Bukovec",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Mai-Lan Tomsen Bukovec é VP de Tecnologia – AWS.",
+    "areasDeAtuacao": [
+      "VP de Tecnologia – AWS"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://reinvent.awsevents.com/on-demand/"
+  },
+  {
+    "id": 27,
+    "nome": "Sophia Kianni",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Sophia Kianni é Fundadora – Climate Cardinals.",
+    "areasDeAtuacao": [
+      "Fundadora – Climate Cardinals"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://websummit.com/blog/society/impact-speakers-sustainability-climate-change-kevin-pietersen-sophia-kianni/"
+  },
+  {
+    "id": 28,
+    "nome": "Michelle Zatlyn",
+    "pais": "Canadá",
+    "continente": "America",
+    "biografia": "Michelle Zatlyn é Co-fundadora & COO – Cloudflare.",
+    "areasDeAtuacao": [
+      "Co-fundadora & COO – Cloudflare"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://vancouver.websummit.com/speakers/"
+  },
+  {
+    "id": 29,
+    "nome": "Irina Novoselsky",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Irina Novoselsky é CEO – Hootsuite.",
+    "areasDeAtuacao": [
+      "CEO – Hootsuite"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://vancouver.websummit.com/speakers/"
+  },
+  {
+    "id": 30,
+    "nome": "Kellie Gerardi",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Kellie Gerardi é Cientista/astronauta comercial.",
+    "areasDeAtuacao": [
+      "Cientista/astronauta comercial"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://ghc.anitab.org/speakers"
+  },
+  {
+    "id": 31,
+    "nome": "Kelly Gerardi",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Kelly Gerardi é Scientist/Astronaut – Zero-G.",
+    "areasDeAtuacao": [
+      "Scientist/Astronaut – Zero-G"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://ghc.anitab.org/speakers"
+  },
+  {
+    "id": 32,
+    "nome": "Elizabeth Reid",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Elizabeth Reid é VP, Head of Search – Google.",
+    "areasDeAtuacao": [
+      "VP, Head of Search – Google"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://io.google/2024/speakers/elizabeth-reid/"
+  },
+  {
+    "id": 33,
+    "nome": "Sissie Hsiao",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Sissie Hsiao é VP & GM, Gemini experiences – Google.",
+    "areasDeAtuacao": [
+      "VP & GM, Gemini experiences – Google"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://io.google/2024/speakers/sissie-hsiao/"
+  },
+  {
+    "id": 34,
+    "nome": "Aparna Pappu",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Aparna Pappu é VP & GM, Google Workspace.",
+    "areasDeAtuacao": [
+      "VP & GM, Google Workspace"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://io.google/2024/speakers/aparna-pappu/"
+  },
+  {
+    "id": 35,
+    "nome": "Rose Yao",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Rose Yao é VP de Produto, Search Verticals e Internacional – Google.",
+    "areasDeAtuacao": [
+      "VP de Produto, Search Verticals e Internacional – Google"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://io.google/2024/speakers/rose-yao/"
+  },
+  {
+    "id": 36,
+    "nome": "Jenny Blackburn",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Jenny Blackburn é VP de UX, Gemini experiences – Google.",
+    "areasDeAtuacao": [
+      "VP de UX, Gemini experiences – Google"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://io.google/2024/speakers/jenny-blackburn/"
+  },
+  {
+    "id": 37,
+    "nome": "Paige Bailey",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Paige Bailey é Head of AI Content Strategy – Google DeepMind.",
+    "areasDeAtuacao": [
+      "Head of AI Content Strategy – Google DeepMind"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/speakers/"
+  },
+  {
+    "id": 38,
+    "nome": "Priyanka Sharma",
+    "pais": "Índia",
+    "continente": "Asia",
+    "biografia": "Priyanka Sharma é Ex-Executive Director – CNCF.",
+    "areasDeAtuacao": [
+      "Ex-Executive Director – CNCF"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/speakers/"
+  },
+  {
+    "id": 39,
+    "nome": "Lin Sun",
+    "pais": "China",
+    "continente": "Asia",
+    "biografia": "Lin Sun é Distinguished Engineer – IBM (Service Mesh).",
+    "areasDeAtuacao": [
+      "Distinguished Engineer – IBM (Service Mesh)"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://www.youtube.com/playlist?list=PLj6h78yzYM2PjoxWp_019Da5ZlKLxQ0SY"
+  },
+  {
+    "id": 40,
+    "nome": "Jessica Rosenworcel",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Jessica Rosenworcel é Chairwoman – U.S. FCC.",
+    "areasDeAtuacao": [
+      "Chairwoman – U.S. FCC"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://www.mobileworldlive.com/blog/ministers-musk-share-mobile-world-congress-spotlight/"
+  },
+  {
+    "id": 41,
+    "nome": "Yang Lan",
+    "pais": "China",
+    "continente": "Asia",
+    "biografia": "Yang Lan é Chairperson – Sun Media Group.",
+    "areasDeAtuacao": [
+      "Chairperson – Sun Media Group"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://mobile-mag.com/telecoms/whos-who-at-mwc-shanghais-main-conference-tracks"
+  },
+  {
+    "id": 42,
+    "nome": "Funke Opeke",
+    "pais": "Nigéria",
+    "continente": "Africa",
+    "biografia": "Funke Opeke é CEO – MainOne.",
+    "areasDeAtuacao": [
+      "CEO – MainOne"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://eqlher.com/eql-lounge-at-ai-summit-cape-town/"
+  },
+  {
+    "id": 43,
+    "nome": "Motunrayo Opayinka",
+    "pais": "Nigéria",
+    "continente": "Africa",
+    "biografia": "Motunrayo Opayinka é CEO – Womenovate.",
+    "areasDeAtuacao": [
+      "CEO – Womenovate"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://eqlher.com/eql-lounge-at-ai-summit-cape-town/"
+  },
+  {
+    "id": 44,
+    "nome": "Sahar Albanarna",
+    "pais": "Arábia Saudita",
+    "continente": "Asia",
+    "biografia": "Sahar Albanarna é Executiva/Setor Digital.",
+    "areasDeAtuacao": [
+      "Executiva/Setor Digital"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://www.onegiantleap.com/en/programme-tracks/women-in-tech.html"
+  },
+  {
+    "id": 45,
+    "nome": "Jen Easterly",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Jen Easterly é Diretora – CISA.",
+    "areasDeAtuacao": [
+      "Diretora – CISA"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://www.rsaconference.com/press-release/rsac-2024-opening-night-speakers-revealed"
+  },
+  {
+    "id": 46,
+    "nome": "Emma Redmond",
+    "pais": "Irlanda",
+    "continente": "Europe",
+    "biografia": "Emma Redmond é Deputy Global Head of Privacy – OpenAI.",
+    "areasDeAtuacao": [
+      "Deputy Global Head of Privacy – OpenAI"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://www.rsaconference.com/press-release/rsac-2024-opening-night-speakers-revealed"
+  },
+  {
+    "id": 47,
+    "nome": "Mira Murati",
+    "pais": "Albânia",
+    "continente": "Europe",
+    "biografia": "Mira Murati é CTO – OpenAI.",
+    "areasDeAtuacao": [
+      "CTO – OpenAI"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://www.youtube.com/watch?v=U9mJuUkhUzk"
+  },
+  {
+    "id": 48,
+    "nome": "Safra Catz",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Safra Catz é CEO – Oracle.",
+    "areasDeAtuacao": [
+      "CEO – Oracle"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://blogs.oracle.com/oracle/post/safra-catz-cloudworld-2023-keynote-business-performance-cloud"
+  },
+  {
+    "id": 49,
+    "nome": "Kimberly Powell",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Kimberly Powell é VP/GM de Saúde – NVIDIA.",
+    "areasDeAtuacao": [
+      "VP/GM de Saúde – NVIDIA"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://www.nvidia.com/en-us/on-demand/session/gtc24-s62604/"
+  },
+  {
+    "id": 50,
+    "nome": "Dominique Palmer",
+    "pais": "Reino Unido",
+    "continente": "Europe",
+    "biografia": "Dominique Palmer é Ativista climática.",
+    "areasDeAtuacao": [
+      "Ativista climática"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://websummit.com/speakers/dominique-palmer/"
+  },
+  {
+    "id": 51,
+    "nome": "Luciana Santos",
+    "pais": "Brasil",
+    "continente": "America",
+    "biografia": "Luciana Santos é Ministra da Ciência, Tecnologia e Inovação – Brasil.",
+    "areasDeAtuacao": [
+      "Ministra da Ciência, Tecnologia e Inovação – Brasil"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://rio.websummit.com/speakers/"
+  },
+  {
+    "id": 52,
+    "nome": "Patricia Florissi",
+    "pais": "Brasil",
+    "continente": "America",
+    "biografia": "Patricia Florissi é Technical Director – Google Cloud.",
+    "areasDeAtuacao": [
+      "Technical Director – Google Cloud"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://rio.websummit.com/speakers/"
+  },
+  {
+    "id": 53,
+    "nome": "Livia Chanes",
+    "pais": "Brasil",
+    "continente": "America",
+    "biografia": "Livia Chanes é CEO Brasil – Nubank.",
+    "areasDeAtuacao": [
+      "CEO Brasil – Nubank"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://rio.websummit.com/speakers/"
+  },
+  {
+    "id": 54,
+    "nome": "Shelley McKinley",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Shelley McKinley é Chief Legal Officer – GitHub.",
+    "areasDeAtuacao": [
+      "Chief Legal Officer – GitHub"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://rio.websummit.com/speakers/"
+  },
+  {
+    "id": 55,
+    "nome": "Rebecca Parsons",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Rebecca Parsons é CTO – Thoughtworks.",
+    "areasDeAtuacao": [
+      "CTO – Thoughtworks"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://rio.websummit.com/women-in-tech/"
+  },
+  {
+    "id": 56,
+    "nome": "Lisa Su",
+    "pais": "Taiwan",
+    "continente": "Asia",
+    "biografia": "Lisa Su é Chair & CEO – AMD.",
+    "areasDeAtuacao": [
+      "Chair & CEO – AMD"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://ir.amd.com/news-events/press-releases/detail/1199/amd-chair-and-chief-executive-officer-dr-lisa-su-to-deliver-the-opening-keynote-at-computex-2024"
+  },
+  {
+    "id": 57,
+    "nome": "Mai-Lan Tomsen Bukovec",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Mai-Lan Tomsen Bukovec é VP de Tecnologia – AWS.",
+    "areasDeAtuacao": [
+      "VP de Tecnologia – AWS"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://reinvent.awsevents.com/on-demand/"
+  },
+  {
+    "id": 58,
+    "nome": "Sophia Kianni",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Sophia Kianni é Fundadora – Climate Cardinals.",
+    "areasDeAtuacao": [
+      "Fundadora – Climate Cardinals"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://websummit.com/blog/society/impact-speakers-sustainability-climate-change-kevin-pietersen-sophia-kianni/"
+  },
+  {
+    "id": 59,
+    "nome": "Michelle Zatlyn",
+    "pais": "Canadá",
+    "continente": "America",
+    "biografia": "Michelle Zatlyn é Co-fundadora & COO – Cloudflare.",
+    "areasDeAtuacao": [
+      "Co-fundadora & COO – Cloudflare"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://vancouver.websummit.com/speakers/"
+  },
+  {
+    "id": 60,
+    "nome": "Irina Novoselsky",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Irina Novoselsky é CEO – Hootsuite.",
+    "areasDeAtuacao": [
+      "CEO – Hootsuite"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://vancouver.websummit.com/speakers/"
+  },
+  {
+    "id": 61,
+    "nome": "Kellie Gerardi",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Kellie Gerardi é Cientista/astronauta comercial.",
+    "areasDeAtuacao": [
+      "Cientista/astronauta comercial"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://ghc.anitab.org/speakers"
+  },
+  {
+    "id": 62,
+    "nome": "Kelly Gerardi",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Kelly Gerardi é Scientist/Astronaut – Zero-G.",
+    "areasDeAtuacao": [
+      "Scientist/Astronaut – Zero-G"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://ghc.anitab.org/speakers"
+  },
+  {
+    "id": 63,
+    "nome": "Elizabeth Reid",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Elizabeth Reid é VP, Head of Search – Google.",
+    "areasDeAtuacao": [
+      "VP, Head of Search – Google"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://io.google/2024/speakers/elizabeth-reid/"
+  },
+  {
+    "id": 64,
+    "nome": "Sissie Hsiao",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Sissie Hsiao é VP & GM, Gemini experiences – Google.",
+    "areasDeAtuacao": [
+      "VP & GM, Gemini experiences – Google"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://io.google/2024/speakers/sissie-hsiao/"
+  },
+  {
+    "id": 65,
+    "nome": "Aparna Pappu",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Aparna Pappu é VP & GM, Google Workspace.",
+    "areasDeAtuacao": [
+      "VP & GM, Google Workspace"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://io.google/2024/speakers/aparna-pappu/"
+  },
+  {
+    "id": 66,
+    "nome": "Rose Yao",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Rose Yao é VP de Produto, Search Verticals e Internacional – Google.",
+    "areasDeAtuacao": [
+      "VP de Produto, Search Verticals e Internacional – Google"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://io.google/2024/speakers/rose-yao/"
+  },
+  {
+    "id": 67,
+    "nome": "Jenny Blackburn",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Jenny Blackburn é VP de UX, Gemini experiences – Google.",
+    "areasDeAtuacao": [
+      "VP de UX, Gemini experiences – Google"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://io.google/2024/speakers/jenny-blackburn/"
+  },
+  {
+    "id": 68,
+    "nome": "Paige Bailey",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Paige Bailey é Head of AI Content Strategy – Google DeepMind.",
+    "areasDeAtuacao": [
+      "Head of AI Content Strategy – Google DeepMind"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/speakers/"
+  },
+  {
+    "id": 69,
+    "nome": "Priyanka Sharma",
+    "pais": "Índia",
+    "continente": "Asia",
+    "biografia": "Priyanka Sharma é Ex-Executive Director – CNCF.",
+    "areasDeAtuacao": [
+      "Ex-Executive Director – CNCF"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/speakers/"
+  },
+  {
+    "id": 70,
+    "nome": "Lin Sun",
+    "pais": "China",
+    "continente": "Asia",
+    "biografia": "Lin Sun é Distinguished Engineer – IBM (Service Mesh).",
+    "areasDeAtuacao": [
+      "Distinguished Engineer – IBM (Service Mesh)"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://www.youtube.com/playlist?list=PLj6h78yzYM2PjoxWp_019Da5ZlKLxQ0SY"
+  },
+  {
+    "id": 71,
+    "nome": "Jessica Rosenworcel",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Jessica Rosenworcel é Chairwoman – U.S. FCC.",
+    "areasDeAtuacao": [
+      "Chairwoman – U.S. FCC"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://www.mobileworldlive.com/blog/ministers-musk-share-mobile-world-congress-spotlight/"
+  },
+  {
+    "id": 72,
+    "nome": "Yang Lan",
+    "pais": "China",
+    "continente": "Asia",
+    "biografia": "Yang Lan é Chairperson – Sun Media Group.",
+    "areasDeAtuacao": [
+      "Chairperson – Sun Media Group"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://mobile-mag.com/telecoms/whos-who-at-mwc-shanghais-main-conference-tracks"
+  },
+  {
+    "id": 73,
+    "nome": "Funke Opeke",
+    "pais": "Nigéria",
+    "continente": "Africa",
+    "biografia": "Funke Opeke é CEO – MainOne.",
+    "areasDeAtuacao": [
+      "CEO – MainOne"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://eqlher.com/eql-lounge-at-ai-summit-cape-town/"
+  },
+  {
+    "id": 74,
+    "nome": "Motunrayo Opayinka",
+    "pais": "Nigéria",
+    "continente": "Africa",
+    "biografia": "Motunrayo Opayinka é CEO – Womenovate.",
+    "areasDeAtuacao": [
+      "CEO – Womenovate"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://eqlher.com/eql-lounge-at-ai-summit-cape-town/"
+  },
+  {
+    "id": 75,
+    "nome": "Sahar Albanarna",
+    "pais": "Arábia Saudita",
+    "continente": "Asia",
+    "biografia": "Sahar Albanarna é Executiva/Setor Digital.",
+    "areasDeAtuacao": [
+      "Executiva/Setor Digital"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://www.onegiantleap.com/en/programme-tracks/women-in-tech.html"
+  },
+  {
+    "id": 76,
+    "nome": "Jen Easterly",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Jen Easterly é Diretora – CISA.",
+    "areasDeAtuacao": [
+      "Diretora – CISA"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://www.rsaconference.com/press-release/rsac-2024-opening-night-speakers-revealed"
+  },
+  {
+    "id": 77,
+    "nome": "Emma Redmond",
+    "pais": "Irlanda",
+    "continente": "Europe",
+    "biografia": "Emma Redmond é Deputy Global Head of Privacy – OpenAI.",
+    "areasDeAtuacao": [
+      "Deputy Global Head of Privacy – OpenAI"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://www.rsaconference.com/press-release/rsac-2024-opening-night-speakers-revealed"
+  },
+  {
+    "id": 78,
+    "nome": "Mira Murati",
+    "pais": "Albânia",
+    "continente": "Europe",
+    "biografia": "Mira Murati é CTO – OpenAI.",
+    "areasDeAtuacao": [
+      "CTO – OpenAI"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://www.youtube.com/watch?v=U9mJuUkhUzk"
+  },
+  {
+    "id": 79,
+    "nome": "Safra Catz",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Safra Catz é CEO – Oracle.",
+    "areasDeAtuacao": [
+      "CEO – Oracle"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://blogs.oracle.com/oracle/post/safra-catz-cloudworld-2023-keynote-business-performance-cloud"
+  },
+  {
+    "id": 80,
+    "nome": "Kimberly Powell",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Kimberly Powell é VP/GM de Saúde – NVIDIA.",
+    "areasDeAtuacao": [
+      "VP/GM de Saúde – NVIDIA"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://www.nvidia.com/en-us/on-demand/session/gtc24-s62604/"
+  },
+  {
+    "id": 81,
+    "nome": "Dominique Palmer",
+    "pais": "Reino Unido",
+    "continente": "Europe",
+    "biografia": "Dominique Palmer é Ativista climática.",
+    "areasDeAtuacao": [
+      "Ativista climática"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://websummit.com/speakers/dominique-palmer/"
+  },
+  {
+    "id": 82,
+    "nome": "Luciana Santos",
+    "pais": "Brasil",
+    "continente": "America",
+    "biografia": "Luciana Santos é Ministra da Ciência, Tecnologia e Inovação – Brasil.",
+    "areasDeAtuacao": [
+      "Ministra da Ciência, Tecnologia e Inovação – Brasil"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://rio.websummit.com/speakers/"
+  },
+  {
+    "id": 83,
+    "nome": "Patricia Florissi",
+    "pais": "Brasil",
+    "continente": "America",
+    "biografia": "Patricia Florissi é Technical Director – Google Cloud.",
+    "areasDeAtuacao": [
+      "Technical Director – Google Cloud"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://rio.websummit.com/speakers/"
+  },
+  {
+    "id": 84,
+    "nome": "Livia Chanes",
+    "pais": "Brasil",
+    "continente": "America",
+    "biografia": "Livia Chanes é CEO Brasil – Nubank.",
+    "areasDeAtuacao": [
+      "CEO Brasil – Nubank"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://rio.websummit.com/speakers/"
+  },
+  {
+    "id": 85,
+    "nome": "Shelley McKinley",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Shelley McKinley é Chief Legal Officer – GitHub.",
+    "areasDeAtuacao": [
+      "Chief Legal Officer – GitHub"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://rio.websummit.com/speakers/"
+  },
+  {
+    "id": 86,
+    "nome": "Rebecca Parsons",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Rebecca Parsons é CTO – Thoughtworks.",
+    "areasDeAtuacao": [
+      "CTO – Thoughtworks"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://rio.websummit.com/women-in-tech/"
+  },
+  {
+    "id": 87,
+    "nome": "Lisa Su",
+    "pais": "Taiwan",
+    "continente": "Asia",
+    "biografia": "Lisa Su é Chair & CEO – AMD.",
+    "areasDeAtuacao": [
+      "Chair & CEO – AMD"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://ir.amd.com/news-events/press-releases/detail/1199/amd-chair-and-chief-executive-officer-dr-lisa-su-to-deliver-the-opening-keynote-at-computex-2024"
+  },
+  {
+    "id": 88,
+    "nome": "Mai-Lan Tomsen Bukovec",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Mai-Lan Tomsen Bukovec é VP de Tecnologia – AWS.",
+    "areasDeAtuacao": [
+      "VP de Tecnologia – AWS"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://reinvent.awsevents.com/on-demand/"
+  },
+  {
+    "id": 89,
+    "nome": "Sophia Kianni",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Sophia Kianni é Fundadora – Climate Cardinals.",
+    "areasDeAtuacao": [
+      "Fundadora – Climate Cardinals"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://websummit.com/blog/society/impact-speakers-sustainability-climate-change-kevin-pietersen-sophia-kianni/"
+  },
+  {
+    "id": 90,
+    "nome": "Michelle Zatlyn",
+    "pais": "Canadá",
+    "continente": "America",
+    "biografia": "Michelle Zatlyn é Co-fundadora & COO – Cloudflare.",
+    "areasDeAtuacao": [
+      "Co-fundadora & COO – Cloudflare"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://vancouver.websummit.com/speakers/"
+  },
+  {
+    "id": 91,
+    "nome": "Irina Novoselsky",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Irina Novoselsky é CEO – Hootsuite.",
+    "areasDeAtuacao": [
+      "CEO – Hootsuite"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://vancouver.websummit.com/speakers/"
+  },
+  {
+    "id": 92,
+    "nome": "Kellie Gerardi",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Kellie Gerardi é Cientista/astronauta comercial.",
+    "areasDeAtuacao": [
+      "Cientista/astronauta comercial"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://ghc.anitab.org/speakers"
+  },
+  {
+    "id": 93,
+    "nome": "Kelly Gerardi",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Kelly Gerardi é Scientist/Astronaut – Zero-G.",
+    "areasDeAtuacao": [
+      "Scientist/Astronaut – Zero-G"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://ghc.anitab.org/speakers"
+  },
+  {
+    "id": 94,
+    "nome": "Elizabeth Reid",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Elizabeth Reid é VP, Head of Search – Google.",
+    "areasDeAtuacao": [
+      "VP, Head of Search – Google"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://io.google/2024/speakers/elizabeth-reid/"
+  },
+  {
+    "id": 95,
+    "nome": "Sissie Hsiao",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Sissie Hsiao é VP & GM, Gemini experiences – Google.",
+    "areasDeAtuacao": [
+      "VP & GM, Gemini experiences – Google"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://io.google/2024/speakers/sissie-hsiao/"
+  },
+  {
+    "id": 96,
+    "nome": "Aparna Pappu",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Aparna Pappu é VP & GM, Google Workspace.",
+    "areasDeAtuacao": [
+      "VP & GM, Google Workspace"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://io.google/2024/speakers/aparna-pappu/"
+  },
+  {
+    "id": 97,
+    "nome": "Rose Yao",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Rose Yao é VP de Produto, Search Verticals e Internacional – Google.",
+    "areasDeAtuacao": [
+      "VP de Produto, Search Verticals e Internacional – Google"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://io.google/2024/speakers/rose-yao/"
+  },
+  {
+    "id": 98,
+    "nome": "Jenny Blackburn",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Jenny Blackburn é VP de UX, Gemini experiences – Google.",
+    "areasDeAtuacao": [
+      "VP de UX, Gemini experiences – Google"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://io.google/2024/speakers/jenny-blackburn/"
+  },
+  {
+    "id": 99,
+    "nome": "Paige Bailey",
+    "pais": "Estados Unidos",
+    "continente": "America",
+    "biografia": "Paige Bailey é Head of AI Content Strategy – Google DeepMind.",
+    "areasDeAtuacao": [
+      "Head of AI Content Strategy – Google DeepMind"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/speakers/"
+  },
+  {
+    "id": 100,
+    "nome": "Priyanka Sharma",
+    "pais": "Índia",
+    "continente": "Asia",
+    "biografia": "Priyanka Sharma é Ex-Executive Director – CNCF.",
+    "areasDeAtuacao": [
+      "Ex-Executive Director – CNCF"
+    ],
+    "imagemURL": "",
+    "coordenadas": {
+      "lat": 0,
+      "lng": 0
+    },
+    "fonte": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/speakers/"
+  }
+]
